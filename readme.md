@@ -1,6 +1,3 @@
-Here's a README file for the project based on the provided HTML file:
-
----
 
 # YouTube.com Clone
 ![YouTube Clone Preview](./YT.PNG)
